@@ -88,13 +88,14 @@ with open("buzzwords") as f:
 nouns = {}
 
 for entry in data:
-    #print entry
+    print entry
     word = entry.split("|")[0].rstrip()
     pos = entry.split("|")[1].rstrip()
     if word.lower() not in nouns and "NOUN" in pos:
+        print word.lower()
         nouns[word.lower().decode('utf-8')] = pos
 #for noun in nouns:
-#    print noun
+    #print noun
 
 ###PRE-NOUN HANDLING
 
@@ -106,7 +107,7 @@ for entry in data:
 verbs = {}
 
 for entry in data:
-    #print entry
+    print entry
     word = entry.split("|")[0].rstrip()
     pos = entry.split("|")[1].rstrip()
     
@@ -116,64 +117,3 @@ for entry in data:
             word = word[:-1]
         verbs[(word.lower()+"ing").decode('utf-8')] = pos
     if word.lower() not in verbs and " V" in pos and "VX" in pos:
-        verbs[word.lower().decode('utf-8')] = pos  
-#for verb in verbs:
-#    print verb
-
-
-
-
-#get adjectives
-#ADJ
-#ADJV
-#VERB + e/d
-adjectives = {}
-
-for entry in data:
-    #print entry
-    word = entry.split("|")[0].rstrip()
-    pos = entry.split("|")[1].rstrip()
-    if word.lower() not in adjectives and ("ADJ" in pos or "ADXX" in pos):
-        adjectives[word.lower().decode('utf-8')] = pos
-#for adjective in adjectives:
-#    print adjective 
-
-
-
-
-
-#get adverbs
-#ADV
-#ADJV + ly
-adverbs = {}
-
-for entry in data:
-    #print entry
-    word = entry.split("|")[0].rstrip()
-    pos = entry.split("|")[1].rstrip()
-    if word.lower() not in adverbs and "ADV" in pos:
-        adverbs[word.lower().decode('utf-8')] = pos
-    if word.lower() not in adverbs and "ADXX" in pos:
-        #if ends with le, remove le
-        if word[-2:] == "le":
-            word = word[:-2]
-        adverbs[(word.lower()+"ly").decode('utf-8')] = pos
-#for adverb in adverbs:
-#    print adverb
-
-
-
-while True:
-    try:
-        business_tweet = generate_tweet(nouns, verbs, adjectives, adverbs)
-    except Exception as g:
-        print g
-        continue
-
-    api.update_status(business_tweet)
-    print "tweeted: ", business_tweet
-    
-    time.sleep(np.random.randint(66,333))
-
-
-v
