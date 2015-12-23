@@ -2,6 +2,7 @@ import tweepy
 import time
 import random
 import numpy as np
+import os
 #import sys 
 #sys.setdefaultencoding('utf-8')
 
@@ -79,8 +80,10 @@ api = tweepy.API(auth)
 
 
 #INITIALIZE WORD TXT STUFF
+file_directory = os.path.dirname(os.path.realpath(__file__)) + "/"
 
-with open("buzzwords") as f:
+
+with open(file_directory + "buzzwords") as f:
     data = f.readlines()
     
     
