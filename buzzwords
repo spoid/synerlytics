@@ -1,0 +1,969 @@
+24/365 | ADJ 
+24/7 | ADJ
+360-degree | ADJ
+3D | ADJ
+4D | ADJ
+4g | ADJ
+5D | ADJ
+A/B Testing | NOUN NOPL
+absolute | ADJ
+accelerate | V
+accountability | NOUN NOPL
+accountable | ADJ
+accurate | ADXX
+achieve | V
+clarity | NOUN NOPL
+action item | NOUN
+actionable | ADJ
+actualize | V
+ad-hoc | ADJ
+adaptive | ADXX
+Learning | NOUN
+addressing the issue of | VX
+administrate | ADJ
+administration | NOUN NOPL
+aggregate | V
+aggregator | NOUN
+agile | ADJ 
+ajax | NOUN PRENOUN NOPL
+algorithm | NOUN
+alignment | NOUN
+all-hands | ADJ
+meet | V
+meeting | NOUN
+alpha office | NOUN 
+alpha | ADJ
+alternative | ADJ
+alternative | NOUN ENDNOUN
+an expanded array of | NOUN ENDNOUN
+analysis paralysis | NOUN NOPL
+analytics | NOUN NOPL
+analysis | NOUN NOPL
+analyze | V
+antifragile | ADJ
+aperture moment | NOUN
+application | NOUN
+appropriate | ADXX
+app | NOUN
+architectures | NOUN
+all-round | ADJ
+array | NOUN
+aspiration statement | NOUN
+assertive | ADXX
+assert | V
+at-the-end-of-the-day | ADJ 
+audacious | ADXX
+augmented reality | NOUN
+augment | V
+authoritatively | ADV
+authority | NOUN PRENOUN
+awareness | NOUN NOPL
+compliance | NOUN NOPL
+b2b | ADJ
+b2c | ADJ
+​back-of-the-envelope | ADJ
+back-end | ADJ
+back-end | NOUN
+backward-compatible | ADJ
+ballpark | ADJ
+ballpark figure | NOUN
+bandwidth | NOUN NOPL
+been-there-done-that | ADJ
+below-the-fold | ADJ
+benchmark | V
+benchmark | NOUN
+benefit | NOUN NOPL
+best-of-breed | ADJ
+best practice | ADJ
+best-in-class | ADJ
+beta | ADJ
+big data | NOUN NOPL PRENOUN
+big picture | ADJ
+big society | ADJ
+bio-break | NOUN
+bitcoin | NOUN PRENOUN
+bizmeth | NOUN PRENOUN
+blamestorm | V
+bleeding-edge | ADJ
+blockchain | NOUN
+blog | NOUN PRENOUN
+bloom's taxonomy | NOUN NOPL
+blue-sky thinking | NOUN NOPL
+blueprint | NOUN
+boiling the frog via | VX
+boiling the ocean via | VX
+booger flicker | NOUN
+bottom line | ADJ 
+bottom-up | ADJ 
+bounce rate | NOUN 
+brain break | NOUN
+brainstorm | V 
+brand | NOUN
+brand | V
+re-brand | V
+evangelist | NOUN
+breaking through the clutter of | VX 
+brick-and-mortar | ADJ 
+bricks-and-clicks | ADJ 
+bring-your-own-device | ADJ  
+click-based | ADJ
+click | NOUN
+brogrammer | NOUN
+budget | NOUN PRENOUN
+bucketize | V
+build | V
+building capabilities | NOUN NOPL
+business | NOUN
+case | NOUN  
+business-to-business | ADJ 
+business-to-consumer | ADJ 
+buy-in | ADJ
+buzzword | NOUN
+buzz | NOUN NOPL
+compliant | ADXX 
+BYOD | ADJ 
+calibrate | V
+capitalization | NOUN NOPL
+capitalize | V
+cash neutral | ADJ
+cash-cascade | NOUN
+catalyst | NOUN 
+CBOW | NOUN PRENOUN NOPL
+Skip-gram | NOUN
+challenge | NOUN ENDNOUN
+challenge | V
+champion | NOUN
+agent | NOUN
+channel | NOUN
+channel | V
+chart | NOUN
+chart | V
+circling back | VX
+circling the wagons due to | VX 
+clear | ADJ
+goal | NOUN
+clicks-and-mortar | ADJ
+clickthrough | ADJ 
+client-based | ADJ 
+client-centered | ADJ 
+client-centric | ADJ 
+client-focused | ADJ 
+client-wiring | ADJ 
+closing the loop of | VX
+closure | NOUN
+cloud | NOUN
+cloud computing | NOUN NOPL 
+cloudify | V
+cluster team | NOUN 
+cluster | V
+co-opetition | NOUN NOPL
+coach | V
+codify | V
+collaborate | V
+collaboration | NOUN NOPL 
+idea-sharing | NOUN
+collaborative | ADXX
+collateral | ADJ 
+come-to-jesus moment | NOUN
+common core | ADJ
+communicate | V
+communications channel | NOUN
+community | NOUN 
+compartmentalization | NOUN NOPL 
+compartmentalize | V
+compelling | ADXX
+competent | ADXX
+competitive | ADXX
+complete | ADXX
+conceptualize | V
+concept | NOUN
+content | NOUN NOPL
+content management system | NOUN
+system | NOUN
+content strategy | NOUN 
+continual | ADXX
+contract | NOUN
+contribute | V
+contribution | NOUN
+convenient | ADXX 
+convergence | NOUN NOPL
+convergent | ADJ
+conversate | V
+cooperative | ADXX 
+coordinate | V
+core competency | NOUN 
+corporate | ADJ
+cost-effective | ADXX 
+countless | ADJ 
+covalent | ADXX
+create | V
+creating value from | VX
+creative | ADXX
+credibility | NOUN NOPL
+credible | ADJ
+credibly | ADV
+cross-functional | ADJ
+crossing the chasm of | VX 
+cross-media | ADJ 
+cross-platform | ADJ 
+cross-pollinate | V
+cross-unit | ADJ 
+crowdfund | V
+crowdsource | V 
+cryptocurrency | NOUN
+crystallization | NOUN NOPL
+cultivate | V
+cultivating our resources for | VX 
+culture | NOUN NOPL
+curate | V
+customer-directed | ADJ 
+customer-service | NOUN
+customer-centric | ADJ 
+customer-focused | ADJ 
+customize | V
+cutting-edge | ADJ 
+dark data | NOUN PRENOUN NOPL
+data | NOUN NOPL
+data mining | NOUN NOPL
+data science | NOUN NOPL
+data-driven | ADJ 
+datafication | NOUN NOPL
+datafy | V
+de-layer | V 
+deep-dive | ADJ  
+deep learning | NOUN PRENOUN NOPL
+deep web | NOUN PRENOUN NOPL
+deliver | V
+deliverables | NOUN NOPL 
+delta | ADJ
+deploy | V
+design pattern | NOUN 
+develop | V
+devops | NOUN NOPL
+differentiated instruction | NOUN 
+digital divide | NOUN
+digital literacy | NOUN NOPL
+digital native | NOUN 
+remaster | V
+digital | ADXX
+analog | ADJ 
+analogically | ADV
+digital rights management | NOUN NOPL 
+digital signage | NOUN NOPL
+disintermediate | ADJ
+disseminate | V 
+discovery | NOUN
+intermediate | ADJ
+intermediary | NOUN
+disintermediary | NOUN
+disruptive | ADJ
+innovation | NOUN 
+technology | NOUN
+distinctive | ADXX
+distribute | V
+diverge | V
+divergent | ADJ 
+diverse | ADXX
+diversity | NOUN NOPL
+DNA | NOUN PRENOUN
+document | NOUN
+Dog and Pony Show | NOUN
+dot-bomb | NOUN
+doubling down on | VX
+down-cascade | V
+downsize | V 
+downward trend | NOUN 
+dramatically | ADV
+drilling down on | VX
+drinking the kool aid of | VX 
+drive | V
+DRM | NOUN NOPL
+dynamic | ADJ 
+dynamically | ADV
+dysfunctional | ADJ 
+functional | ADJ 
+e-business | NOUN NOPL
+e-biz | NOUN NOPL
+e-commerce | NOUN NOPL
+e-enable | V
+e-learning | NOUN NOPL
+e-market | NOUN
+e-service | NOUN 
+e-tailers | NOUN NOPL 
+e-tize | V
+early-stage | ADJ 
+earning | NOUN
+economically sound | ADJ
+​ecosystem | NOUN
+education | NOUN NOPL
+effective | ADXX
+efficient | ADXX
+elastic | ADJ 
+elastically | ADV
+embrace | V
+emerging | ADJ
+emotional leakage | NOUN PRENOUN NOPL
+empathy | NOUN NOPL 
+emphasize | V 
+employee engagement | NOUN NOPL
+employer branding | NOUN NOPL
+empower | V 
+empowerment | NOUN NOPL 
+emulate | V
+enable | V
+end-to-end | ADJ 
+energistically | ADV 
+engage | V
+engagement | NOUN 
+engine | NOUN
+engineer | NOUN
+enhance | V
+enterprise | NOUN 
+enterprise-wide | ADJ
+enthusiastically | ADV
+enthusiastic | ADJ
+enthusiasm | NOUN NOPL
+entitled | ADJ
+entitlement | NOUN
+﻿﻿entrepreneurship | NOUN NOPL
+envision | V
+envisioneer | NOUN 
+epic | ADJ
+equity invested | ADJ 
+error-free | ADJ
+ethical | ADJ
+event horizon | NOUN 
+evisculate | V
+evolve | V
+excellence | NOUN NOPL 
+excellent | ADJ
+expectation | NOUN
+expect | V
+exceptional | ADJ 
+exit strategy | NOUN
+expandable | ADJ 
+expedite | V
+experience | NOUN 
+expertise | NOUN NOPL
+exploit | V
+exponential | ADXX
+extend | V
+extensible | ADJ
+extensive | ADXX
+fabricate | V
+face time | NOUN NOPL
+facilitate | V
+fact-of-the-matter | ADJ 
+fail-fast | ADJ 
+fail-forward | ADJ 
+fanbase | NOUN
+fanboy | NOUN PRENOUN
+fashion | NOUN NOPL
+fast track | ADJ 
+finalize | V
+first-or-best | ADJ 
+flat | ADJ 
+flatten | V 
+flexible | ADXX
+flow | NOUN NOPL
+flowchart | NOUN
+focusing on | VX
+focus | V
+folksonomy | NOUN
+formulate | V
+formula | NOUN
+foster | V
+framework | NOUN 
+free | ADJ
+free value | ADJ  
+freemium | ADJ 
+frictionless | ADJ 
+front-end | ADJ 
+fulfilment issues | NOUN NOPL 
+full HD | ADJ
+fully researched | ADJ  
+fully tested | ADJ 
+functional | ADJ 
+functional training | NOUN NOPL 
+functionality | NOUN
+functionalize | V 
+fund | V
+fund | NOUN
+fungibility | NOUN NOPL 
+fungible | ADXX
+funnel | V
+fuse | V
+fusion | NOUN NOPL 
+future-proof | ADJ 
+fuzzy logic | NOUN PRENOUN
+game changer | NOUN
+game plan | NOUN
+gamechanging | ADJ
+gameify | V
+gamification | NOUN NOPL 
+gap analysis | NOUN NOPL
+generate | V 
+generation | NOUN 
+generation X | NOUN NOPL
+generation Y | NOUN NOPL
+getting on the bus of | VX
+getting our ducks in a row for | VX 
+gigahertz | NOUN PRENOUN
+gigapixel | NOUN 
+giving 110% for | VX 
+glamour metrics | NOUN NOPL
+global | ADXX
+global citizen | NOUN 
+globalization | NOUN NOPL
+globalize | V
+going forward with | VX
+going the extra mile with | VX
+goal-oriented | ADJ 
+goal-setting | ADJ
+granular | ADJ
+green | ADJ
+groupthink | NOUN NOPL 
+grow | V
+growing revenues with | VX
+growth hack | NOUN
+growth strategy | NOUN 
+growth | NOUN NOPL
+guide | V
+guiding principle | NOUN
+guru | NOUN
+​half-pregnant | ADJ  
+hard stop | NOUN 
+harness | V
+having a dialogue around | VX 
+headlights | NOUN NOPL
+heads down | ADJ 
+heads up | ADJ 
+headwind | ADJ 
+health break | NOUN
+doing the heavy lifting in | VX
+high availability | ADJ 
+high definition | ADJ 
+high level | ADJ 
+high-payoff | ADJ 
+high-quality | ADJ 
+higher-order thinking | NOUN NOPL 
+highly available | ADJ 
+highly efficient | ADJ 
+highly motivated | ADJ 
+hitting our numbers for | VX 
+holistic | ADXX
+approach | V
+approach | NOUN
+dwelling unit | NOUN
+homerun | NOUN
+html5 | NOUN PRENOUN NOPL
+human capital | NOUN NOPL
+hyperlocal | ADJ 
+hyperscale | NOUN
+hypo - | ADJ 
+iconic | ADJ
+idea | NOUN
+ideation | NOUN NOPL
+ignite | V
+immersion | NOUN NOPL 
+immersive | ADJ
+impact | V
+impactful | ADJ  
+imperatives | NOUN NOPL
+implement | V
+impression | NOUN 
+in-the-loop | ADJ
+closed-loop | ADJ
+in-the-weeds | ADJ 
+in-market | ADJ
+in-market for | VX
+incentivize | V
+inclusive | ADXX
+incubate | V
+inexpensive | ADJ 
+info highway | NOUN
+infographic | NOUN
+infomediaries | NOUN NOPL
+information | NOUN NOPL
+information society | NOUN NOPL
+information superhighway | NOUN 
+infrastructure | NOUN
+initiate | V
+initiative | NOUN 
+innovate | V
+innovation | NOUN 
+innovationalize | V
+innovative | ADXX
+inspect what you expect | 
+inspire | V
+inspiration | NOUN
+integrate | V
+integration testing | NOUN NOPL 
+intellectual capital | NOUN NOPL
+interactive | ADXX
+interconnected | ADJ 
+interconnect | V
+interdependent | ADJ 
+interface | NOUN
+interface | V
+intermandate | V
+intermandate | NOUN
+internal | ADXX
+organic | ADJ
+internet of things | NOUN PRENOUN NOPL 
+interoperable | ADJ 
+intersectional | ADXX
+intrinsical | ADXX 
+intuitive | ADXX
+invested in | VX
+issue | NOUN
+iterate | V 
+key player | NOUN
+knee-deep | ADJ 
+knowledge base | NOUN 
+knowledge process outsourcing | NOUN NOPL
+KPI | NOUN 
+leadership | NOUN NOPL
+skill | NOUN
+skilled | ADJ
+skillfully | ADV
+leading-edge | ADJ 
+lean | ADJ 
+lean & mean | ADJ 
+leveling up | VX 
+level-setting | ADJ
+leverage | V
+leveraging existing | VX  
+literal | ADXX 
+living document | NOUN 
+lizard brain | NOUN
+logistics | NOUN NOPL
+long tail | ADJ 
+long term | ADJ 
+long-term | ADJ 
+long-term high-impact | ADJ 
+low-hanging fruit | NOUN NOPL
+low-risk high-yield | ADJ
+magnetic | ADJ
+maintain | V
+maintainable | ADJ 
+maker | NOUN
+management visibility | NOUN NOPL 
+manufacture | V   
+market positioning | NOUN NOPL 
+market segment | NOUN 
+market-driven | ADJ
+marketing | NOUN NOPL
+funnel | V
+market | NOUN  
+mashup | NOUN
+material | NOUN 
+matrix | NOUN PRENOUN
+maximize | V
+megapixel | NOUN
+mentor | V
+meta-service | NOUN
+methodology | NOUN
+methods of empowerment | NOUN NOPL 
+metric | NOUN
+ADJ | metric
+milestone | NOUN
+milestone | ADJ
+millennial | NOUN
+millennial | ADJ
+mindset | NOUN
+mindshare | NOUN
+mindshare | V
+mission-critical | ADJ
+mission statement | NOUN
+mobile | ADJ 
+mobile-first | ADJ 
+model | NOUN 
+modernity | NOUN
+modularity | NOUN NOPL
+monetize | V
+monotonectally | ADV 
+morale | NOUN NOPL
+morph | V
+moving forward with | VX
+multi-channel | ADJ 
+multi-level | ADJ 
+multidisciplinary | ADJ  
+multifunctional | ADJ 
+multimedia based | ADJ 
+multiple intelligences | NOUN NOPL 
+multitask | V
+MVP | NOUN
+myocardinate | V
+nanotechnology | NOUN NOPL 
+negative growth | NOUN NOPL
+negotiate | V
+net present value | NOUN NOPL 
+net-net | ADJ 
+netiquette | NOUN NOPL
+network | NOUN
+new economy | NOUN NOPL
+newsjacking | NOUN NOPL
+next-level | ADJ 
+next-gen | ADJ 
+next-generation | ADJ  
+niche market | NOUN 
+niche | NOUN 
+nimble | ADJ
+ninja | NOUN PRENOUN
+noSQL | NOUN PRENOUN 
+rocket science | NOUN NOPL
+NPV | NOUN
+object-oriented programming | NOUN NOPL
+objective | ADXX 
+octa-core | ADJ
+​offline | ADJ
+offshore | ADJ 
+offshore | V 
+on-demand | ADJ 
+one-to-one | ADJ 
+open-source | ADJ
+operationalize | V
+opportunity | NOUN
+optimal | ADXX
+optimization | NOUN NOPL
+optimize | V
+orchestrate | V 
+organic |  ADJ  
+orthogonal | ADXX
+out-of-pocket | ADJ 
+out-of-the-loop | ADJ 
+out-of-the-box | ADJ 
+outcome | NOUN
+outsource | V
+outside-the-box | ADJ 
+over-the-top | ADJ  
+ownership | NOUN NOPL
+pain-point | ADJ
+pandemic | ADJ 
+pandering to | VX 
+paradigm | NOUN
+paradigm shift | NOUN 
+parallel | ADXX
+pareto-ize | V
+parse | V
+partner | NOUN
+partnership | NOUN
+passionate | ADXX
+patent-pending | ADJ 
+design | NOUN
+peeling the onion of | VX
+percolate | V
+performance-based | ADJ
+performance indicator | NOUN
+performance score | NOUN
+performant | ADJ
+personal branding | NOUN NOPL 
+phosfluorescent | ADJ 
+ping | V
+pipeline | NOUN
+pivot | V 
+pizzazz | NOUN NOPL 
+plagiarize | V
+platform | NOUN
+playing hardball with | VX
+plug-and-play | ADJ
+podcast | V
+podcast | NOUN
+political | ADJ 
+capital | NOUN NOPL
+current affair | NOUN
+pontificate | V
+popping out | VX
+portal | NOUN
+position | V
+position | NOUN
+potentiality | NOUN
+power shift | NOUN
+predominate | ADJ 
+premier | ADJ 
+premium | ADJ 
+presentism | NOUN NOPL
+principle-centered | ADJ 
+prioritize | V
+priority | NOUN
+proactive | ADXX
+process review | NOUN 
+process-centric | ADJ 
+process | NOUN
+procrastinate | V 
+productivate | V
+productize | V
+product | NOUN 
+professional | ADXX
+center | NOUN
+profit | NOUN
+profitable | ADJ 
+progressive | ADJ
+project-based | ADJ 
+promote | V
+proof-of-concept | ADJ
+proprietary | ADJ 
+prospective | ADXX
+prototype | V
+prototype | NOUN
+providing access to | VX
+public | ADJ 
+face | V
+public | ADXX
+pulling the trigger on | VX 
+pursue | V
+pushing back against | V 
+pushing the envelope on | V
+qualified | ADJ
+lead | V
+lead | NOUN
+quality | NOUN NOPL
+vector | NOUN
+vector | V
+quick-win | ADJ 
+quick | ADXX
+ramping up | VX 
+rapidiously | ADV
+re-engineer | V
+reaching out to | V 
+real estate | NOUN NOPL
+real-time | ADJ 
+reality check | NOUN
+realization | NOUN
+realize | V
+recapitalize | V 
+reconceptualize | V
+recontextualize | V
+redefine | V
+refresh | V
+regroup | V
+reimagine | V 
+reintermediate | V 
+reinvent | V
+relationship | NOUN 
+relay | V
+reliable | ADXX
+repurpose | V
+resilient | ADXX
+resonate | V
+resource-constrained | ADJ 
+resource-maximizing | ADJ 
+resource-sucking | ADJ 
+resource-leveling | ADJ 
+resource | NOUN 
+responsive | ADXX
+restore | V
+result-driven | ADJ  
+result | NOUN 
+investment return | NOUN
+ROI | NOUN NOPL
+revenue | NOUN
+reverse | ADXX
+reverse-engineer | V
+revisit | V
+revolutionary | ADJ 
+revolutionize | V
+rich | ADJ
+rightshore | V
+rightsize | V
+risk effect | NOUN
+risk management | NOUN NOPL
+robust | ADJ
+robust and scalable | ADJ
+improve | V
+improvement | NOUN
+rounding error | NOUN
+rubber stamp | NOUN
+running | VX
+scalability | NOUN NOPL
+scalable | ADJ
+scale | V
+scenario | NOUN
+schedule-compressed | ADJ
+schema | NOUN
+science | NOUN NOPL
+scoresheet | NOUN
+seamless | ADXX
+seize | V
+semi - | ADJ
+sensorization | NOUN
+sensation | NOUN
+SEO | NOUN NOPL
+serum | NOUN
+organization | NOUN
+organize | V
+manage | V
+service | NOUN
+share option | NOUN
+shift | NOUN
+shift | V
+shooting for | VX
+side-cascade | V
+silo | NOUN
+simplify | V
+sizzling | ADJ
+skeuomorphic | ADJ
+skill set | NOUN
+slam dunk | NOUN
+smart | ADJ
+smartsize | V
+proof | NOUN NOPL
+social media | NOUN NOPL
+expert | ADXX
+expert | NOUN
+software | NOUN NOPL
+hardware | NOUN NOPL
+neuromorphic | ADJ 
+socialize | V
+soft-launch | V
+solution | N
+solution | V
+solutions-oriented | ADJ
+source | NOUN
+spam-aware | ADJ
+spin-up | ADJ
+spitball | ADJ
+squared-away | ADJ 
+stakeholder | NOUN
+stand-alone | ADJ
+standardize | V
+standards-compliant | ADJ 
+standup | ADJ 
+startup | NOUN
+state of the art | ADJ
+statistical | ADJ 
+statistic | NOUN
+stealth mode | ADJ
+stealth startup | NOUN
+sticky | ADJ
+storage | NOUN NOPL
+storytelling skill | NOUN
+strategery | NOUN NOPL
+strategic | ADJ
+strategically | ADV
+communication | NOUN NOPL
+theme area | NOUN
+strategize | V
+strategy | NOUN
+streamline | V
+student engagement | NOUN NOPL
+subject matter | NOUN 
+superior | ADJ
+supply | V
+supply chain | NOUN
+survey noun | NOUN
+survival strategy | NOUN 
+sustainability | NOUN NOPL
+sustainable | ADXX
+sustain | V
+sync-up | NOUN
+syndicate | NOUN
+synergistic | ADJ 
+synergistically | ADV
+synergize | V
+synergy | NOUN
+synthesize | V
+system | NOUN
+life-cycle | NOUN 
+tactical | ADXX
+tagging | VX
+talent | NOUN
+talking point | NOUN
+target | NOUN
+target | V
+task force | NOUN
+team | NOUN
+build | V 
+team-driven | ADJ
+technically sound | ADJ  
+technology | NOUN
+testing procedure | NOUN 
+thinktank | NOUN
+thought leader | NOUN 
+tiger team | NOUN
+timely | ADJ
+top-of-mind | ADJ
+top-of-the house | ADJ
+top-down | ADJ 
+top-line | ADJ
+total-linkage | ADJ
+total-quality | ADJ
+touch-base | ADJ
+touchpoint | NOUN
+traction | NOUN NOPL
+train wreck | NOUN
+transform | V
+transgenerate | V
+transition | V
+transition | NOUN
+transmedia | NOUN NOPL
+transparency | NOUN NOPL
+transparent | ADJ 
+trending towards | VX
+troubleshooting | NOUN NOPL
+turn-key | ADJ
+ubiquitous | ADJ
+underwhelmed by | VX
+unique | ADXX
+unit testing | NOUN NOPL
+unleash | V
+unpack | V
+up-cascade | V
+upcycle | V
+upscale | V
+upsell | V
+user | NOUN
+user friendly | ADJ 
+user generated content | NOUN NOPL
+user-base | NOUN
+user-centric | ADJ
+utilize | V
+validate | V
+value | NOUN
+value-added | ADJ
+value-driven | ADJ 
+vegan | ADJ
+vertical | ADXX
+horizontal | ADXX
+﻿vibrant | ADXX
+viral | ADJ
+virtual | ADXX
+virtual reality | NOUN NOPL
+virtual team | NOUN NOPL
+virtualization | NOUN NOPL
+virtualize | V
+visibility | NOUN NOPL
+visible | ADXX
+vision | NOUN
+visionary | ADJ
+visionary | NOUN
+visualize | V
+vlogg | V
+voluptuous | ADXX
+vortal | NOUN
+wearable computing | NOUN NOPL
+wearables | NOUN NOPL
+web 2.0 | NOUN NOPL
+web 3.0 | NOUN NOPL
+web service | NOUN
+web X.0 | NOUN NOPL
+web-enabled | ADJ  
+web-readiness | NOUN NOPL
+webinar | NOUN
+weblog | NOUN
+weblogged | ADJ
+weblogging | V
+wellness | NOUN NOPL
+wheelhouse | NOUN
+whiteboard | NOUN
+wikiality | NOUN NOPL
+win-win | ADJ 
+wireless | ADXX
+wizard | NOUN
+workflow | NOUN
+workload | NOUN
+world-class | ADJ
+worldwide | ADJ
+yottabyte | NOUN
+petabyte | NOUN
